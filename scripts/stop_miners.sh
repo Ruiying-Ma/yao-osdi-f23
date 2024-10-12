@@ -1,0 +1,1 @@
+bash scripts/broadcast_command.sh $1 tmux kill-session -t miner
